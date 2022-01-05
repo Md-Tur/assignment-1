@@ -73,3 +73,8 @@ img{
     text-align: left;
     margin-top: 50px;
 }
+.community{
+    display: flex;
+    margin-top: 30px;
+    padding-left: 40px;
+}
