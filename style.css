@@ -78,6 +78,9 @@ img{
     margin-top: 30px;
     padding-left: 40px;
 }
+#community-img{
+    padding-left: 200px;
+}
 #foot{
     background-color: black;
     color: white;
